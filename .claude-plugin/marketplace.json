@@ -474,6 +474,7 @@
       "commands": [
         "./commands/context-save.md",
         "./commands/context-restore.md"
+        "./commands/doc-generate.md"
       ],
       "agents": [
         "./agents/context-manager.md"

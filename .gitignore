@@ -17,7 +17,12 @@ Thumbs.db
 *.out
 
 # Application specific files
-venv
+?venv
 node_modules
 .sass-cache
-.claude
+
+# claude-trace files
+.claude/
+!.claude/settings.json
+.claude-trace/
+
